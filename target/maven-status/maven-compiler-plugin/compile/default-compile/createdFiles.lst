@@ -1,4 +1,4 @@
-com\codedotorg\UrbanExplorer.class
+com/codedotorg/City.class
+com/codedotorg/App.class
+com/codedotorg/UrbanExplorer.class
 module-info.class
-com\codedotorg\App.class
-com\codedotorg\City.class
